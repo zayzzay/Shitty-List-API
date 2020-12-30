@@ -10,41 +10,7 @@ Here you can find what makes the Shitty List work how it does and some examples 
 
 
 
----
-# List Staff Team
----
-## Owners:
-- Cyns
-- Cohvi
-- Acidius
-- Fulva
----
-## List Admins:
-- AcropolisBoy
-- GabeLucario
-- Kobra
----
-## List Moderators:
-- None
----
-## List Helpers:
-- Krakow
-- Catalyst
-- Vinny
-- Vink
-- Tril
-- TheConey
-- Goodyman
----
-## Server Administrators:
-- Lupe
-- BlueStone
-- Nezzi
-- Electro
-- krissi
-- yeezo
-- LukeQuartez
----
+
 ## Repo Maintainers:
 - Electro
-- Cyns
+- EwoksWearDurags
