@@ -6,7 +6,7 @@ Here you can find what makes the Shitty List work how it does and some examples 
 
  # API Faq
  How can you contact me
- - You can contact me using Discord [#Discord-Tag] (EwoksWearDurags#0484)
+ - You can contact me using Discord EwoksWearDurags#0484
 
 
 
