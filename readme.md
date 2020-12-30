@@ -1,6 +1,6 @@
-# Welcome to the maintained Geometry Dash Shitty List repo!
+# Welcome to the maintained Geometry Dash Shitty List API!
 ---
-There isnt much going on here at the moment but the list team will actively be adding new records and levels, so keep an eye out on the [website](https://gdshittylist.asemnada991.repl.co/).
+This will be used for explaining the List's API, so go ahead and check the [website](https://gdshittylist.asemnada991.repl.co/) out.
 ---
 # FAQ
 ---
