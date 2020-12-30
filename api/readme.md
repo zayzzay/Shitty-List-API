@@ -4,6 +4,12 @@ hello welcome to the API made by Electro and EwoksWearDurags. written by Ewoks, 
 
 Here you can find what makes the Shitty List work how it does and some examples to make your site just like this one
 
+ # API Faq
+ How can you contact me
+ - You can contact me using Discord [#Discord-Tag] (EwoksWearDurags#0484)
+
+
+
 ---
 # List Staff Team
 ---
